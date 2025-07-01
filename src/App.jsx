@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar/Navbar'
-import About from './components/About/about'
+import About from './components/About/About'
 import Education from './components/Education/Education'
 import Work from './components/Work/Work'
 import Skills from './components/Skills/Skills'
