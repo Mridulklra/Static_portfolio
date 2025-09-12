@@ -50,7 +50,7 @@ import csprepLogo from './assets/work_logo/cs_prep.png';
 import taskremLogo from './assets/work_logo/task_rem.png';
 import npmLogo from './assets/work_logo/img2.png';
 import webverLogo from './assets/work_logo/img3.png';
-import cmLogo from '/assets/work_logo/img4.png';
+// import cmLogo from '/assets/work_logo/img4.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 
