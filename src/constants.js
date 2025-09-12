@@ -43,7 +43,7 @@ import glaLogo from './assets/education_logo/gla_logo.png';
 import bsaLogo from './assets/education_logo/bsa_logo.png';
 import vpsLogo from './assets/education_logo/vps_logo.png';
 
-// // Project Section Logo's
+// // Project Section Logo'
 import githubdetLogo from './assets/work_logo/img1.png';
 import npmLogo from './assets/work_logo/img2.png';
 import webverLogo from './assets/work_logo/img3.png';
