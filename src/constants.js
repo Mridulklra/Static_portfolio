@@ -241,25 +241,30 @@ export const SkillsInfo = [
    webapp: "https://echo-pay-frontend.vercel.app",
 
   },
+  
   {
     id: 2,
-    title: "Excali Sketch",
+    title: "Posture Detection App",
     description:
-      "A real-time collaborative whiteboard built using Canvas API and WebSockets. Supports multi-user collaboration with <200ms latency, room-based sessions, and a scalable Express backend deployed with Turborepo and Render.",
-    image: csprepLogo,
+      "A full-stack posture analysis application that allows users to upload a video performing a squat or sitting at a desk, and provides rule-based feedback with clear summaries. Frame-by-frame pose detection using MediaPipe ensures accurate analysis, and feedback is returned in a structured JSON format.",
+    image: postureLogo, // tumhare project ka image import kar ke yaha use karo
     tags: [
       "React",
-      "WebSockets",
-      "Canvas API",
-      "Node.js",
-      "Express",
+      "Vite",
       "Tailwind CSS",
-      "Turborepo",
+      "FastAPI",
+      "MediaPipe",
+      "OpenCV",
+      "Vercel",
       "Render",
+      "Railway",
     ],
-    github: "https://github.com/Mridulkira/excali-sketch",
-    webapp: "https://excalisketch.vercel.app/",
+    github: "https://github.com/<your-username>/posture-detection-app",
+    webapp: "https://yoga-posture.vercel.app",
+    demo: "https://www.loom.com/share/8bd8819b912247d4b2e05651a0883089?sid=14e3e365-7491-473f-b20e-43f304613230",
   },
+
+
   
   
   
