@@ -48,6 +48,8 @@ import githubdetLogo from './assets/work_logo/img1.png';
 
 import npmLogo from './assets/work_logo/img2.png';
 import webverLogo from './assets/work_logo/img3.png';
+import webverLogo1 from './assets/work_logo/img4.png';
+import webverLogo2 from './assets/work_logo/img5.png';
 
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
@@ -245,7 +247,7 @@ export const SkillsInfo = [
     title: "Posture Detection App",
     description:
       "A full-stack posture analysis application that allows users to upload a video performing a squat or sitting at a desk, and provides rule-based feedback with clear summaries. Frame-by-frame pose detection using MediaPipe ensures accurate analysis, and feedback is returned in a structured JSON format.",
-   image: githubdetLogo,
+   image: webverLogo1,
     tags: [
       "React",
       "Vite",
@@ -270,7 +272,7 @@ export const SkillsInfo = [
     title: "Face Recognition Attendance",
     description:
       "A desktop application for automatic attendance tracking using facial recognition. Users can register, and the system automatically detects faces from the webcam to mark attendance. Includes text-to-speech feedback and an intuitive UI for easy operation.",
-  image: githubdetLogo,
+  image: webverLogo2,
     tags: [
       "Python",
       "OpenCV",
