@@ -217,14 +217,14 @@ export const SkillsInfo = [
       "JWT",
       "CI/CD",
     ],
-    github: "https://github.com/Mridulkira/second-brain",
-    webapp: "https://secondbrain.vercel.app/",
+    github: "https://github.com/Mridulklra/Second-Brain",
+    webapp: "second-brain-topaz.vercel.app",
   },
   {
     id: 1,
-    title: "FlashPay",
+    title: "Echo Pay",
     description:
-      "A fintech payment application built with Next.js, Clerk, and Appwrite. Integrated Plaid for account verification and Dwolla for ACH transactions. Includes real-time monitoring using Sentry and secure production deployment via Vercel.",
+      "A voice-powered fintech payment application built with Next.js, Clerk, and Appwrite. Enables seamless payments using voice commands with secure authentication and real-time monitoring. Deployed on Vercel for reliable production use.",
     image: githubdetLogo,
     tags: [
       "Next.js",
@@ -236,8 +236,8 @@ export const SkillsInfo = [
       "Appwrite",
       "Sentry",
     ],
-    github: "https://github.com/Mridulkira/flashpay",
-    webapp: "https://flashpay.vercel.app/",
+    github: "https://github.com/Mridulklra/Echo-pay-Frontend",
+    webapp: "echo-pay-frontend.vercel.app",
   },
   {
     id: 2,
