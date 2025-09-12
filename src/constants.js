@@ -218,7 +218,8 @@ export const SkillsInfo = [
       "CI/CD",
     ],
     github: "https://github.com/Mridulklra/Second-Brain",
-    webapp: "second-brain-topaz.vercel.app",
+    webapp: "https://second-brain-topaz.vercel.app",
+
   },
   {
     id: 1,
@@ -237,7 +238,8 @@ export const SkillsInfo = [
       "Sentry",
     ],
     github: "https://github.com/Mridulklra/Echo-pay-Frontend",
-    webapp: "echo-pay-frontend.vercel.app",
+   webapp: "https://echo-pay-frontend.vercel.app",
+
   },
   {
     id: 2,
