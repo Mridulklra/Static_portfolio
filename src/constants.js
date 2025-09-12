@@ -245,7 +245,7 @@ export const SkillsInfo = [
     title: "Posture Detection App",
     description:
       "A full-stack posture analysis application that allows users to upload a video performing a squat or sitting at a desk, and provides rule-based feedback with clear summaries. Frame-by-frame pose detection using MediaPipe ensures accurate analysis, and feedback is returned in a structured JSON format.",
- 
+   image: githubdetLogo,
     tags: [
       "React",
       "Vite",
@@ -270,7 +270,7 @@ export const SkillsInfo = [
     title: "Face Recognition Attendance",
     description:
       "A desktop application for automatic attendance tracking using facial recognition. Users can register, and the system automatically detects faces from the webcam to mark attendance. Includes text-to-speech feedback and an intuitive UI for easy operation.",
-
+  image: githubdetLogo,
     tags: [
       "Python",
       "OpenCV",
