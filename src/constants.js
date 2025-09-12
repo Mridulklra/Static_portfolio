@@ -270,7 +270,7 @@ export const SkillsInfo = [
     title: "Face Recognition Attendance",
     description:
       "A desktop application for automatic attendance tracking using facial recognition. Users can register, and the system automatically detects faces from the webcam to mark attendance. Includes text-to-speech feedback and an intuitive UI for easy operation.",
-    image: faceLogo,
+
     tags: [
       "Python",
       "OpenCV",
