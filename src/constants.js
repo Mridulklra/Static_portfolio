@@ -44,13 +44,13 @@ import bsaLogo from './assets/education_logo/bsa_logo.png';
 import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/github_det.png';
+import githubdetLogo from './assets/work_logo/Screenshot(196).png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
-import movierecLogo from './assets/work_logo/movie_rec.png';
+import movierecLogo from './assets/work_logo/Screenshot (199).png';
 import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/npm.png';
+import npmLogo from './assets/work_logo/Screenshot(198).png';
 import webverLogo from './assets/work_logo/web_dig.png';
-import cmLogo from './assets/work_logo/cm.png';
+import cmLogo from '/assets/work_logo/Screenshot(199).png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 
@@ -247,7 +247,7 @@ export const SkillsInfo = [
     title: "Posture Detection App",
     description:
       "A full-stack posture analysis application that allows users to upload a video performing a squat or sitting at a desk, and provides rule-based feedback with clear summaries. Frame-by-frame pose detection using MediaPipe ensures accurate analysis, and feedback is returned in a structured JSON format.",
-    image: postureLogo, // tumhare project ka image import kar ke yaha use karo
+    image: cmLogo, // tumhare project ka image import kar ke yaha use karo
     tags: [
       "React",
       "Vite",
@@ -266,7 +266,26 @@ export const SkillsInfo = [
 
 
   
-  
+
+  {
+    id: 3,
+    title: "Face Recognition Attendance",
+    description:
+      "A desktop application for automatic attendance tracking using facial recognition. Users can register, and the system automatically detects faces from the webcam to mark attendance. Includes text-to-speech feedback and an intuitive UI for easy operation.",
+    image: faceLogo,
+    tags: [
+      "Python",
+      "OpenCV",
+      "Face Recognition",
+      "Text-to-Speech",
+      "Tkinter",
+      "Machine Learning",
+    ],
+    github: "https://github.com/Mridulklra/Face-recognition-attendence",
+    webapp: "", // desktop app hai, webapp nahi
+    demo: "", // optional, agar tumhare paas video demo hai to yaha daal sakte ho
+  },
+
   
  
   
@@ -282,14 +301,15 @@ export const SkillsInfo = [
   },
   {
     id: 4,
-    title: "Weather App",
+    title: "Dino Game",
     description:
-      "A weather application that displays real-time data like temperature, forecasts, and humidity using an open weather API.",
-    image: cmLogo,
-    tags: ["JavaScript", "API", "Weather"],
-    github: "https://github.com/Mridulklra/weather_app",
-    webapp: "",
+      "A classic Dino game built with vanilla JavaScript. Features obstacle spawning, score tracking, and responsive controls.",
+    image: removebgLogo,
+    tags: ["JavaScript", "HTML", "CSS", "Game Development"],
+    github: "https://github.com/Mridulklra/Dino-game",
+    webapp: "https://dino-game-git-main-mridulkalra700-gmailcoms-projects.vercel.app/",
   },
+  
   {
     id: 5,
     title: "Todo App",
@@ -298,16 +318,7 @@ export const SkillsInfo = [
     image: imagesearchLogo,
     tags: ["JavaScript", "Bootstrap", "HTML", "CSS"],
     github: "https://github.com/Mridulklra/TodoApp",
-    webapp: "",
+    webapp: "https://simple-professional-todo.vercel.app/",
   },
-  {
-    id: 6,
-    title: "Dino Game",
-    description:
-      "A classic Dino game built with vanilla JavaScript. Features obstacle spawning, score tracking, and responsive controls.",
-    image: removebgLogo,
-    tags: ["JavaScript", "HTML", "CSS", "Game Development"],
-    github: "https://github.com/Mridulklra/Dino-game",
-    webapp: "",
-  },
+  
 ];
