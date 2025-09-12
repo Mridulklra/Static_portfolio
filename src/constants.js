@@ -44,13 +44,13 @@ import bsaLogo from './assets/education_logo/bsa_logo.png';
 import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/Screenshot(196).png';
+import githubdetLogo from './assets/work_logo/img1.png';
 import csprepLogo from './assets/work_logo/cs_prep.png';
-import movierecLogo from './assets/work_logo/Screenshot (199).png';
+
 import taskremLogo from './assets/work_logo/task_rem.png';
-import npmLogo from './assets/work_logo/Screenshot(198).png';
-import webverLogo from './assets/work_logo/web_dig.png';
-import cmLogo from '/assets/work_logo/Screenshot(199).png';
+import npmLogo from './assets/work_logo/img2.png';
+import webverLogo from './assets/work_logo/img3.png';
+import cmLogo from '/assets/work_logo/img4.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 
