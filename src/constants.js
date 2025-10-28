@@ -114,24 +114,27 @@ export const SkillsInfo = [
 
   export const experiences = [
   {
-    id: 0,
-    img: softwareGiantLogo, // Replace with the actual logo import
-    role: "Fullstack Developer (Freelance)",
-    company: "Software Giant",
-    date: "August 2024 - December 2024",
-    desc: "Engineered and maintained production-ready MERN stack applications serving 10,000+ active users with 99.9% uptime. Implemented CI/CD pipelines using Turborepo and GitHub Actions, optimized frontend performance by 30%, and built scalable backend architecture using Express.js and Redux Toolkit.",
-    skills: [
-      "React",
-      "Next.js",
-      "Tailwind CSS",
-      "TypeScript",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-      "Redux Toolkit",
-      "GitHub Actions",
-      "Turborepo",
-    ],
+  id: 0,
+  img: softwareGiantLogo, // Replace with the actual logo import
+  role: "Fullstack Developer (Freelance)",
+  company: "Software Giant",
+  date: "March 2025 - May 2025",
+  desc: "Built an AI-powered full-stack application generator using programmable AI agents with Inngest for workflow orchestration. Integrated models like OpenAI, Anthropic, and Grok for automated code generation, executed securely in E2B Docker sandboxes. Implemented agent architecture, background jobs, authentication & billing with Clerk, and AI-assisted PR reviews via CodeRabbit. Developed the platform using Next.js 15, React 19, Tailwind v4, tRPC, and Prisma—enabling live app previews, credit-based usage tracking, and end-to-end automation.",
+  skills: [
+    "Next.js 15",
+    "React 19",
+    "Tailwind CSS v4",
+    "tRPC",
+    "Prisma",
+    "Inngest",
+    "OpenAI",
+    "Anthropic",
+    "Grok",
+    "Clerk",
+    "CodeRabbit",
+    "Docker",
+    "E2B"
+  ]
   },
   {
     id: 1,
@@ -265,7 +268,28 @@ export const SkillsInfo = [
   },
 
 
-  
+  {
+  id: 1,
+  title: "Agentic E-Commerce",
+  description:
+    "An AI-driven e-commerce platform built with Next.js that uses agentic workflows to automate catalog management, order tracking, and product recommendations. Designed to explore how intelligent agents can enhance traditional e-commerce operations through real-time decision-making and task automation.",
+  image: npmLogo,
+  tags: [
+    "Next.js",
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Node.js",
+    "Prisma",
+    "PostgreSQL",
+    "AI Agents",
+    "Inngest",
+    "Clerk",
+  ],
+  github: "https://github.com/Mridulklra/E-commerce-Agent",
+  webapp: "",
+},
+
 
   {
     id: 3,
