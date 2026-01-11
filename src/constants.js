@@ -204,7 +204,7 @@ export const SkillsInfo = [
 
  export const projects = [
   {
-  id: 1,
+  id: 0,
   title: "Agentic AI – Drug Repurposing Platform",
   description:
     "An AI-powered multi-agent drug repurposing platform that simulates literature mining, clinical trial analysis, patent landscape evaluation, market research, and LLM-based synthesis. Built as a production-grade static prototype showcasing agent orchestration, interactive dashboards, and scalable system design.",
@@ -225,7 +225,7 @@ export const SkillsInfo = [
 }
 ,
   {
-    id: 0,
+    id: 1,
     title: "Second Brain",
     description:
       "A full-stack AI-powered knowledge management platform that allows users to aggregate, organize, and share content from GitHub, YouTube, PDFs, and tweets. Features include JWT authentication, public link sharing, and optimized MongoDB querying for scalable performance.",
@@ -247,7 +247,7 @@ export const SkillsInfo = [
   },
   
   {
-    id: 1,
+    id: 2,
     title: "Echo Pay",
     description:
       "A voice-powered fintech payment application built with Next.js, Clerk, and Appwrite. Enables seamless payments using voice commands with secure authentication and real-time monitoring. Deployed on Vercel for reliable production use.",
@@ -268,7 +268,7 @@ export const SkillsInfo = [
   },
   
   {
-    id: 2,
+    id: 3,
     title: "Posture Detection App",
     description:
       "A full-stack posture analysis application that allows users to upload a video performing a squat or sitting at a desk, and provides rule-based feedback with clear summaries. Frame-by-frame pose detection using MediaPipe ensures accurate analysis, and feedback is returned in a structured JSON format.",
@@ -291,7 +291,7 @@ export const SkillsInfo = [
 
 
   {
-  id: 1,
+  id: 4,
   title: "Agentic E-Commerce",
   description:
     "An AI-driven e-commerce platform built with Next.js that uses agentic workflows to automate catalog management, order tracking, and product recommendations. Designed to explore how intelligent agents can enhance traditional e-commerce operations through real-time decision-making and task automation.",
@@ -314,7 +314,7 @@ export const SkillsInfo = [
 
 
   {
-    id: 3,
+    id: 5,
     title: "Face Recognition Attendance",
     description:
       "A desktop application for automatic attendance tracking using facial recognition. Users can register, and the system automatically detects faces from the webcam to mark attendance. Includes text-to-speech feedback and an intuitive UI for easy operation.",
@@ -336,7 +336,7 @@ export const SkillsInfo = [
  
   
   {
-    id: 3,
+    id: 6,
     title: "Random Color Generator",
     description:
       "An interactive web tool that generates random colors with both code and visual display. Simple yet fun for experimentation.",
@@ -346,7 +346,7 @@ export const SkillsInfo = [
     webapp: "",
   },
   {
-    id: 4,
+    id: 7,
     title: "Dino Game",
     description:
       "A classic Dino game built with vanilla JavaScript. Features obstacle spawning, score tracking, and responsive controls.",
@@ -357,7 +357,7 @@ export const SkillsInfo = [
   },
   
   {
-    id: 5,
+    id: 8,
     title: "Todo App",
     description:
       "A to-do list app allowing users to create, edit, delete, and mark tasks as done or undone. Built with Bootstrap for quick styling.",
