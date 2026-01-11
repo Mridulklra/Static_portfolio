@@ -204,6 +204,27 @@ export const SkillsInfo = [
 
  export const projects = [
   {
+  id: 1,
+  title: "Agentic AI – Drug Repurposing Platform",
+  description:
+    "An AI-powered multi-agent drug repurposing platform that simulates literature mining, clinical trial analysis, patent landscape evaluation, market research, and LLM-based synthesis. Built as a production-grade static prototype showcasing agent orchestration, interactive dashboards, and scalable system design.",
+  image: agenticAiLogo,
+  tags: [
+    "Agentic AI",
+    "Multi-Agent Systems",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Chart.js",
+    "LLM Architecture",
+    "System Design",
+    "Vercel"
+  ],
+  github: "https://github.com/Mridulklra/Agentic-AI",
+  webapp: "https://agentic-ai.vercel.app"
+}
+,
+  {
     id: 0,
     title: "Second Brain",
     description:
@@ -224,6 +245,7 @@ export const SkillsInfo = [
     webapp: "https://second-brain-topaz.vercel.app",
 
   },
+  
   {
     id: 1,
     title: "Echo Pay",
