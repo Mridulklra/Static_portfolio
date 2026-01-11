@@ -220,8 +220,8 @@ export const SkillsInfo = [
     "System Design",
     "Vercel"
   ],
-  github: "https://github.com/Mridulklra/Agentic-AI",
-  webapp: "https://agentic-ai.vercel.app"
+  github: "https://github.com/Mridulklra",
+  webapp: "https://drug-repurposing-through-agentic-ai.vercel.app/"
 }
 ,
   {
