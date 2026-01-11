@@ -45,7 +45,7 @@ import vpsLogo from './assets/education_logo/vps_logo.png';
 
 // Project Section Logo's
 import githubdetLogo from './assets/work_logo/img1.png';
-
+import agenticAiLogo from './assets/work_logo/Screenshot (396).png';
 import npmLogo from './assets/work_logo/img2.png';
 import webverLogo from './assets/work_logo/img3.png';
 import webverLogo1 from './assets/work_logo/img4.png';
